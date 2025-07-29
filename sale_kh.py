@@ -1,3 +1,5 @@
+# 웹 크롤링 셀레니엄, 뷰리풀 숩
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
